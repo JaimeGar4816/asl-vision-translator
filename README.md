@@ -77,12 +77,15 @@ git clone https://github.com/JaimeGar4816/asl-vision-translator.git
 cd asl-vision-translator
 
 Install dependencies:
+```
 pip install opencv-python mediapipe scikit-learn joblib numpy
-
+```
 ## Steps
 Step 1
 Run:
+```
 python3 src/collect_asl_data.py
+```
 
 Controls:
 A–Z → choose letter
@@ -94,17 +97,21 @@ data/asl_data.npz
 
 Step 2 — Train the Model
 Run:
+```
 python3 src/train_asl_model.py
+```
 
 Outputs:
 Accuracy score
 Classification report
 Saved model:
-models/asl_model.joblib
+```models/asl_model.joblib```
 
 Step 3 — Run the Live Demo
 Run:
+```
 python3 src/asl_live_demo.py
+```
 
 -----Static Letters
 Hold your hand in a letter shape.
