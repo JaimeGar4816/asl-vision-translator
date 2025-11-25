@@ -113,22 +113,21 @@ Run:
 python3 src/asl_live_demo.py
 ```
 
------Static Letters
-Hold your hand in a letter shape.
-Prediction appears when stable.
------Motion Letters (J & Z)
-0 → enable motion mode
-J / Z → choose letter
-Move fingertip to draw motion
-M → finish and commit letter
-----Text Editing
-space → add space
-b → backspace
-c → clear text
-q → quit
-----Word Suggestions
-Appears automatically
-Press 1, 2, or 3 to insert suggestion
+- Static Letters:
+    - Hold your hand in a letter shape.
+    - Prediction appears when stable.
+- Motion Letters (J & Z):
+  - 0 → enable motion mode J / Z → choose letter
+  - Move fingertip to draw motion
+  - M → finish and commit letter
+- Text Editing
+  - space → add space
+  - b → backspace
+  - c → clear text
+  - q → quit
+- Word Suggestions
+  - Appears automatically
+  - Press 1, 2, or 3 to insert suggestion
 
 ### License
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0)
