@@ -49,7 +49,7 @@ The system:
 ---
 
 ## Project Structure
-
+'''
 asl-vision-translator/
 │
 ├── asl-vision-translator/
@@ -67,7 +67,7 @@ asl-vision-translator/
 ├── .gitignore
 ├── LICENSE
 └── README.md
-
+'''
 ---
 
 ## Installation
