@@ -156,6 +156,12 @@ If you'd like to collaborate, extend the project, or request commercial usage, f
 Support the Project
 If you like this project, give the repo a star ⭐ — it means a lot and helps others discover it!
 
+### Commercial
+If you or your organization are interested in using this technology 
+commercially, please contact Jaime Garcia for licensing options.
+
+---
+
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Enabled-green)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-Hand_Tracking-orange)
