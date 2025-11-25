@@ -120,12 +120,12 @@ python3 src/asl_live_demo.py
   - 0 → enable motion mode J / Z → choose letter
   - Move fingertip to draw motion
   - M → finish and commit letter
-- Text Editing
+- Text Editing:
   - space → add space
   - b → backspace
   - c → clear text
   - q → quit
-- Word Suggestions
+- Word Suggestions:
   - Appears automatically
   - Press 1, 2, or 3 to insert suggestion
 
