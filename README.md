@@ -155,3 +155,11 @@ If you'd like to collaborate, extend the project, or request commercial usage, f
 
 Support the Project
 If you like this project, give the repo a star ⭐ — it means a lot and helps others discover it!
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![OpenCV](https://img.shields.io/badge/OpenCV-Enabled-green)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-Hand_Tracking-orange)
+![License](https://img.shields.io/badge/License-CC--BY--NC--SA%204.0-red)
+![Model](https://img.shields.io/badge/Model-Random_Forest-yellow)
+![Platform](https://img.shields.io/badge/Platform-MacOS%20%7C%20Linux-lightgrey)
+
